@@ -1,0 +1,32 @@
+# This configuration file will be used for discord-ingame announcements for your towny server!
+# With this , it is possible to let your players know on discord whenever a town/nation is made/deleted ingame.
+# Configure it below:
+
+webhook-url: "https://discord.com/api/webhooks/PUTSOMETHINGHERE"
+# Change this to your webhook's URL. This will be used for all notifications below.
+
+
+notification-town-creation: "true"
+# Set to true to notify players on discord whenever a new town is made.
+
+notification-town-ruins: "true"
+# Set to true to notify players on discord whenever a town falls into ruins.
+
+notification-town-delete: "true"
+# Set to true to notify players on discord whenever a town is fully deleted.
+
+notification-nation-create: "true"
+# Set to true to notify players on discord whenever a new nation is made.
+
+notification-nation-disband: "true"
+# Set to true to notify players on discord whenever a nation is deleted/disbaned.
+
+notification-siegewar-session-start: "false"
+# Set to true to notify players on discord whenever a new Siege session starts.
+
+notification-siegewar-session-end: "false"
+# Set to true to notify players on discord whenever a Siege session ends.
+
+notification-siegewar-siege-start: "false"
+# Set to true to notify players on discord when someone starts a Siege.
+

@@ -1,0 +1,8 @@
+name: TownyDiscord
+version: '${project.version}'
+main: dev.imperiumcode.townydiscord.Main
+api-version: 1.19
+depend: [ Towny ]
+authors: [ 0xBit ]
+description: TownyDiscord is a simple webhook solution for Towny Events.
+website: https://discord.gg/zNbH9yf6B4
